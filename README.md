@@ -2,6 +2,10 @@
 
 Conditionally prevent a page from being rendered.
 
+[![Build Status](https://travis-ci.org/octopress/abort-tag.svg)](https://travis-ci.org/octopress/abort-tag)
+[![Gem Version](http://img.shields.io/gem/v/octopress-abort-tag.svg)](https://rubygems.org/gems/octopress-abort-tag)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://octopress.mit-license.org)
+
 ## Installation
 
 Add this line to your application's Gemfile:

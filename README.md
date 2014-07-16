@@ -20,6 +20,11 @@ Or install it yourself as:
 
     $ gem install octopress-abort-tag
 
+Next add it to your gems list in Jekyll's `_config.yml`
+
+    gems:
+      - octopress-abort-tag
+
 ## Usage
 
 Syntax:

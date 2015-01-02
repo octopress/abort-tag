@@ -37,6 +37,6 @@ if defined? Octopress::Docs
     description: "Conditionally prevent a page from being rendered.",
     type:        "tag",
     path:        File.expand_path(File.join(File.dirname(__FILE__), "../")),
-    source_url:  "https://github.com/octopress/"
+    source_url:  "https://github.com/octopress/abort-tag"
   })
 end
